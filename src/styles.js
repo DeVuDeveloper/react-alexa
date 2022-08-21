@@ -65,9 +65,9 @@ export default makeStyles((theme) => ({
     },
   },
   alanLogo: {
-    height: '27vmin',
+    height: '17vmin',
     borderRadius: '15%',
-    padding: '0 5%',
+    padding: '0 2%',
     margin: '3% 0',
     [theme.breakpoints.down('sm')]: {
       height: '35vmin',
