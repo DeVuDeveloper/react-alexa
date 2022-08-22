@@ -7,7 +7,7 @@
 <a href="https://github.com/VuDej/react-alexa.git#readme"><strong>Explore the docs »</strong></a>
 <br />
 <br />
- <a href="https://github.com/VuDej/restaurant-frontend.com/">View Demo</a>
+ <a href="https://react-dejan-alexa.netlify.app/">View Demo</a>
 .
 <a href="https://github.com/VuDej/react-alexa.git/issues">Report Bug</a>
 ·
